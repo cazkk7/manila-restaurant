@@ -22,7 +22,6 @@ La aplicación integra diferentes secciones que permiten explorar el catálogo d
 - TypeScript
 - HTML5
 - CSS3
-- JavaScript
 - APIs REST
 - LocalStorage
 - jsPDF
